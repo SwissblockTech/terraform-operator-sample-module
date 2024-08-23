@@ -1,0 +1,1 @@
+# terraform-operator-sample-module
